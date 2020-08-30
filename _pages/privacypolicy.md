@@ -4,17 +4,18 @@ title: Privacy Policy
 include_in_header: true
 ---
 
+
 **Last updated**  
-August 19 2020
+August 29 2020
 
 
-# CrakX Privacy Policy
+## CrakX Privacy Policy
 
 CrakX ("us", "we", or "our") operates the  [crakx.github.io](https://crakx.github.io/)  website, the Application Programming Interface (API) and the CrakX mobile application (the "Service"). This privacy policy also applies to any service or application that consumes any part of or makes any call to the CrakX API.
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our  [Terms of Service](/changelog).
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our  [Terms of Service](https://crakx.github.io/changelog/).
 
 ## Information Collection And Use
 
@@ -28,37 +29,19 @@ While using our Service, we may ask you to provide us with certain personally id
 
 -   Email address
 -   First name and last name
--   Phone number
--   Cookies and Usage Data
+-   Photo URL
 
 #### Usage Data
 
 We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
 
-This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
-
-#### Tracking & Cookies Data
-
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
-
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
-
-Examples of Cookies we use:
-
--   **Session Cookies.**  We use Session Cookies to operate our Service.
--   **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
--   **Security Cookies.**  We use Security Cookies for security purposes.
 
 ## Use of Data
 
 CrakX uses the collected data for various purposes:
 
 -   To provide and maintain the Service
--   To notify you about changes to our Service
 -   To allow you to participate in interactive features of our Service when you choose to do so
 -   To provide customer care and support
 -   To provide analysis or valuable information so that we can improve the Service
@@ -103,11 +86,9 @@ Our Service may contain links to other sites that are not operated by us. If you
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## Children's Privacy
+## Third Party Content
 
-Our Service does not address anyone under the age of 18 ("Children").
-
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+We are providing appropriate credits to all the third parties who are associated with the content shown in this application.
 
 ## Changes To This Privacy Policy
 
