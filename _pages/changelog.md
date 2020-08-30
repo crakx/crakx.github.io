@@ -4,6 +4,7 @@ title: Terms of Service
 include_in_header: true
 ---
 
+
 # CrakX Terms of Service
 
 These terms and conditions outline the rules and regulations for the use of CrakX.
@@ -87,6 +88,6 @@ We are committed to helping law enforcement agencies in any way we can. CrakX re
 
 ## Privacy Policy
 
-Please refer to the  [CrakX Privacy Policy](/privacypolicy)
+Please refer to the  [CrakX Privacy Policy](https://crakx.github.io/privacypolicy/)
 
-For any comments or queries about the terms of service, you may email us at  [support@crakx.in](mailto:support@crakx.in)
+For any comments or queries about the terms of service, you may email us at  [crakxapp@gmail.com](mailto:crakxapp@gmail.com)
