@@ -5,14 +5,14 @@ page_title                                : CrakX App                           
 ios_app_id                                :                             # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://crakx.github.io                                          # Enter Google Play Store URL.
+playstore_link                            : play.google.com/store/apps/details?id=io.iitb.firebase_test                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/logo.png # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CrakX                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : app                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : An application to help you master placement and internship prepration 
+app_price                                 : Transforming your Preparation                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Navigate through our vast collection of resume resources, interview questions, personal experiences, and tips from various successful candidates and cover letters for portraying your personality in the best way. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
