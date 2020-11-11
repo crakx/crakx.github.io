@@ -19,7 +19,7 @@ We employ the use of cookies. By using CrakX, you consent to the use of cookies 
 
 ## License
 
-Unless otherwise stated, CrakX and/or it's licensors own the intellectual property rights for all material on CrakX. All intellectual property rights are reserved. You may view and/or print pages from CrakX for your own personal use subject to restrictions set in these terms and conditions.
+Unless otherwise stated, CrakX, students/alumni of IIT Bombay own the intellectual property rights for all material on CrakX. You can only view pages from CrakX for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not, without express prior permission from the licensors of CrakX:
 
